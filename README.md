@@ -6,6 +6,8 @@ Introduction
 
 The application consists of a form and a contact list. It is used to store phone
 contacts, search for contacts and, if necessary, delete them.
+![phonebookApp](https://github.com/szczepanskimichal/goit-react-hw-06-phonebook/assets/127307935/dd2e5d4f-1503-4a6d-a88f-640ebe45c42f)
+![phonebookApp2](https://github.com/szczepanskimichal/goit-react-hw-06-phonebook/assets/127307935/771ecc4f-185f-44ae-b7a5-e9c25cd1b1b3)
 
 Technologies
 
@@ -29,6 +31,7 @@ npm start
 The application will run on localhost:3000.
 
 Project Structure
+![phonebookApp3](https://github.com/szczepanskimichal/goit-react-hw-06-phonebook/assets/127307935/482c2204-3d2e-4ee3-a6e1-60d1a15bd28f)
 
 Author
 
